@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jerónimo Romero
+# Jerónimo Romero
 
 🎓 Estudiante de Ingeniería en Sistemas de Información en la UTN.
 
@@ -58,8 +58,8 @@ Colección de consultas, bases de datos y ejercicios de modelado relacional.
 
 ## Actualmente Aprendiendo
 
-- Android Development
-- Kotlin
+- JavaScript
+- C++
 - Jetpack Compose
 - Backend Development
 - Arquitectura de Software
@@ -70,6 +70,6 @@ Colección de consultas, bases de datos y ejercicios de modelado relacional.
 
 📧 jeroromero1901@gmail.com
 
-💼 LinkedIn: [Tu LinkedIn]
+💼 LinkedIn: 
 
 📍 Córdoba, Argentina
