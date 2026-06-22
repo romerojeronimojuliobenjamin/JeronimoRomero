@@ -1,2 +1,75 @@
-# JeronimoRomero
-🎓 Systems Engineering Student at UTN  💻 Python | SQL | C# | Git | Microsoft 365 | Networking  🔧 Interested in IT Support, Infrastructure, Networks and Software Development  📚 Currently learning Android, Kotlin, Jetpack Compose and Backend Development  📫 jeroromero1901@gmail.com
+# 👋 Hola, soy Jerónimo Romero
+
+🎓 Estudiante de Ingeniería en Sistemas de Información en la UTN.
+
+💻 Interesado en Soporte IT, Infraestructura, Redes y Desarrollo de Software.
+
+---
+
+## Tecnologías
+
+### Lenguajes
+- Python
+- SQL
+- C#
+- C
+- Bash
+
+### Infraestructura y Soporte
+- Microsoft 365
+- Windows
+- Linux
+- Troubleshooting
+- Hardware & Software Support
+
+### Redes
+- TCP/IP
+- DNS
+- DHCP
+- LAN/WiFi
+- Cableado Estructurado
+- Fortinet (básico)
+
+### Herramientas
+- Git
+- GitHub
+- AnyDesk
+- TeamViewer
+- RDP
+- SSH
+
+---
+
+## Proyectos Destacados
+
+### Eye Tracking Project
+Prototipo de visión por computadora para controlar una computadora mediante seguimiento ocular utilizando Python y OpenCV.
+
+### Android Calculator
+Aplicación Android desarrollada en Kotlin con interfaz moderna y operaciones básicas.
+
+### Login & Register App
+Aplicación Android con autenticación de usuarios y almacenamiento local.
+
+### SQL Practice
+Colección de consultas, bases de datos y ejercicios de modelado relacional.
+
+---
+
+## Actualmente Aprendiendo
+
+- Android Development
+- Kotlin
+- Jetpack Compose
+- Backend Development
+- Arquitectura de Software
+
+---
+
+## Contacto
+
+📧 jeroromero1901@gmail.com
+
+💼 LinkedIn: [Tu LinkedIn]
+
+📍 Córdoba, Argentina
